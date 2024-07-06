@@ -1,41 +1,44 @@
 {
-    "products": [
-      {
-        "id": 1,
-        "name": "Product 1",
-        "description": "Description for product 1",
-        "price": 10.0,
-        "edit": true
-      },
-      {
-        "id": 2,
-        "name": "Product 2",
-        "description": "Description for product 2",
-        "price": 20.0,
-        "edit": true
-      },
-      {
-        "id": 3,
-        "name": "Product 3",
-        "description": "Description for product 3",
-        "price": 30.0,
-        "edit": true
-      },
-      {
-        "id": 4,
-        "name": "Product 4",
-        "description": "Description for product 4",
-        "price": 40.0,
-        "edit": true
-      },
-      {
-        "id": 5,
-        "name": "Product 5",
-        "description": "Description for product 5",
-        "price": 50.0,
-        "edit": true
-      }
-     
-    ]
-  }
-  
+  "products": [
+    {
+      "id": 1,
+      "title": "Organic Bananas",
+      "description": "Fresh organic bananas from certified organic farms.",
+      "price": 1.99,
+      "image": "https://via.placeholder.com/150?text=Organic+Bananas",
+      "edit": true
+    },
+    {
+      "id": 2,
+      "title": "Almond Milk",
+      "description": "Unsweetened almond milk, perfect for lactose-intolerant individuals.",
+      "price": 3.49,
+      "image": "https://via.placeholder.com/150?text=Almond+Milk",
+      "edit": true
+    },
+    {
+      "id": 3,
+      "title": "Free-Range Eggs",
+      "description": "A dozen free-range eggs from happy, healthy hens.",
+      "price": 4.99,
+      "image": "https://via.placeholder.com/150?text=Free-Range+Eggs",
+      "edit": true
+    },
+    {
+      "id": 4,
+      "title": "Organic Spinach",
+      "description": "Fresh, organic spinach leaves perfect for salads and smoothies.",
+      "price": 2.99,
+      "image": "https://via.placeholder.com/150?text=Organic+Spinach",
+      "edit": true
+    },
+    {
+      "id": 5,
+      "title": "Whole Wheat Bread",
+      "description": "Healthy whole wheat bread baked fresh daily.",
+      "price": 3.99,
+      "image": "https://via.placeholder.com/150?text=Whole+Wheat+Bread",
+      "edit": true
+    }
+  ]
+}
