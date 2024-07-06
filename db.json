@@ -5,7 +5,7 @@
       "title": "Organic Bananas",
       "description": "Fresh organic bananas from certified organic farms.",
       "price": 1.99,
-      "image": "https://via.placeholder.com/150?text=Organic+Bananas",
+      "images": "https://via.placeholder.com/150?text=Organic+Bananas",
       "edit": true
     },
     {
@@ -13,7 +13,7 @@
       "title": "Almond Milk",
       "description": "Unsweetened almond milk, perfect for lactose-intolerant individuals.",
       "price": 3.49,
-      "image": "https://via.placeholder.com/150?text=Almond+Milk",
+      "images": "https://via.placeholder.com/150?text=Almond+Milk",
       "edit": true
     },
     {
@@ -21,7 +21,7 @@
       "title": "Free-Range Eggs",
       "description": "A dozen free-range eggs from happy, healthy hens.",
       "price": 4.99,
-      "image": "https://via.placeholder.com/150?text=Free-Range+Eggs",
+      "images": "https://via.placeholder.com/150?text=Free-Range+Eggs",
       "edit": true
     },
     {
@@ -29,7 +29,7 @@
       "title": "Organic Spinach",
       "description": "Fresh, organic spinach leaves perfect for salads and smoothies.",
       "price": 2.99,
-      "image": "https://via.placeholder.com/150?text=Organic+Spinach",
+      "images": "https://via.placeholder.com/150?text=Organic+Spinach",
       "edit": true
     },
     {
@@ -37,7 +37,7 @@
       "title": "Whole Wheat Bread",
       "description": "Healthy whole wheat bread baked fresh daily.",
       "price": 3.99,
-      "image": "https://via.placeholder.com/150?text=Whole+Wheat+Bread",
+      "images": "https://via.placeholder.com/150?text=Whole+Wheat+Bread",
       "edit": true
     }
   ]
