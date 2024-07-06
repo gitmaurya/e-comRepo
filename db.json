@@ -5,7 +5,11 @@
       "title": "Organic Bananas",
       "description": "Fresh organic bananas from certified organic farms.",
       "price": 1.99,
-      "images": "https://via.placeholder.com/150?text=Organic+Bananas",
+      "images": [
+        "https://www.shutterstock.com/image-photo/fake-food-coloring-fraud-fraudulent-concept-2055149528",
+        "https://www.shutterstock.com/image-photo/fake-food-coloring-fraud-fraudulent-concept-2055149528",
+        "https://www.shutterstock.com/image-photo/fake-food-coloring-fraud-fraudulent-concept-2055149528"
+      ],
       "edit": true
     },
     {
@@ -13,7 +17,11 @@
       "title": "Almond Milk",
       "description": "Unsweetened almond milk, perfect for lactose-intolerant individuals.",
       "price": 3.49,
-      "images": "https://via.placeholder.com/150?text=Almond+Milk",
+      "images": [
+        "https://media.istockphoto.com/id/1183847388/photo/glass-and-bottle-of-milk-with-almond-nuts-on-wooden-table.jpg",
+        "https://media.istockphoto.com/id/1183847388/photo/glass-and-bottle-of-milk-with-almond-nuts-on-wooden-table.jpg",
+        "https://media.istockphoto.com/id/1183847388/photo/glass-and-bottle-of-milk-with-almond-nuts-on-wooden-table.jpg"
+      ],
       "edit": true
     },
     {
@@ -21,7 +29,11 @@
       "title": "Free-Range Eggs",
       "description": "A dozen free-range eggs from happy, healthy hens.",
       "price": 4.99,
-      "images": "https://via.placeholder.com/150?text=Free-Range+Eggs",
+      "images": [
+        "https://media.istockphoto.com/id/909669646/photo/free-range-eggs.jpg",
+        "https://media.istockphoto.com/id/909669646/photo/free-range-eggs.jpg",
+        "https://media.istockphoto.com/id/909669646/photo/free-range-eggs.jpg"
+      ],
       "edit": true
     },
     {
@@ -29,7 +41,11 @@
       "title": "Organic Spinach",
       "description": "Fresh, organic spinach leaves perfect for salads and smoothies.",
       "price": 2.99,
-      "images": "https://via.placeholder.com/150?text=Organic+Spinach",
+      "images": [
+        "https://media.istockphoto.com/id/157415204/photo/spinach.jpg",
+        "https://media.istockphoto.com/id/157415204/photo/spinach.jpg",
+        "https://media.istockphoto.com/id/157415204/photo/spinach.jpg"
+      ],
       "edit": true
     },
     {
@@ -37,7 +53,11 @@
       "title": "Whole Wheat Bread",
       "description": "Healthy whole wheat bread baked fresh daily.",
       "price": 3.99,
-      "images": "https://via.placeholder.com/150?text=Whole+Wheat+Bread",
+      "images": [
+        "https://media.istockphoto.com/id/157179922/photo/sliced-whole-wheat-bread.jpg",
+        "https://media.istockphoto.com/id/157179922/photo/sliced-whole-wheat-bread.jpg",
+        "https://media.istockphoto.com/id/157179922/photo/sliced-whole-wheat-bread.jpg"
+      ],
       "edit": true
     }
   ]
