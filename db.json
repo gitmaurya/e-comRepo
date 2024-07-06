@@ -5,7 +5,7 @@
       "title": "Organic Bananas",
       "category": "Fruits",
       "description": "Fresh organic bananas from certified organic farms.",
-      "price": 1.99,
+      "price": 59,
       "images": [
         "https://images.unsplash.com/photo-1528825871115-3581a5387919?q=80&w=1915&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -18,7 +18,7 @@
       "title": "Almond Milk",
       "category": "Beverages",
       "description": "Unsweetened almond milk, perfect for lactose-intolerant individuals.",
-      "price": 3.49,
+      "price": 89,
       "images": [
         "https://images.unsplash.com/photo-1601436423474-51738541c1b1?q=80&w=1854&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1626196340077-601ba2a67e4f?q=80&w=1868&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -31,11 +31,11 @@
       "title": "Free-Range Eggs",
       "category": "Dairy & Eggs",
       "description": "A dozen free-range eggs from happy, healthy hens.",
-      "price": 4.99,
+      "price": 49,
       "images": [
-        "https://www.istockphoto.com/photo/free-range-eggs-gm909669646-249328255",
-        "https://www.istockphoto.com/photo/free-range-eggs-gm909669646-249328255",
-        "https://www.istockphoto.com/photo/free-range-eggs-gm909669646-249328255"
+        "https://images.unsplash.com/photo-1536816579748-4ecb3f03d72a?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1607690424560-35d967d6ad7c?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1593483112335-b341b2e748d5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "edit": true
     },
@@ -44,11 +44,11 @@
       "title": "Organic Spinach",
       "category": "Vegetables",
       "description": "Fresh, organic spinach leaves perfect for salads and smoothies.",
-      "price": 2.99,
+      "price": 99,
       "images": [
-        "https://www.istockphoto.com/photo/spinach-leaves-on-rustic-wooden-table-gm157415204-19438013",
-        "https://www.istockphoto.com/photo/spinach-leaves-on-rustic-wooden-table-gm157415204-19438013",
-        "https://www.istockphoto.com/photo/spinach-leaves-on-rustic-wooden-table-gm157415204-19438013"
+        "https://images.unsplash.com/photo-1576045057995-568f588f82fb?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1580910365203-91ea9115a319?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1578283326173-fbb0f83b59b2?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "edit": true
     },
@@ -57,11 +57,11 @@
       "title": "Whole Wheat Bread",
       "category": "Bakery",
       "description": "Healthy whole wheat bread baked fresh daily.",
-      "price": 3.99,
+      "price": 39,
       "images": [
-        "https://www.istockphoto.com/photo/sliced-whole-wheat-bread-gm157179922-15566751",
-        "https://www.istockphoto.com/photo/sliced-whole-wheat-bread-gm157179922-15566751",
-        "https://www.istockphoto.com/photo/sliced-whole-wheat-bread-gm157179922-15566751"
+        "https://images.unsplash.com/photo-1598373182133-52452f7691ef?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1592029780368-c1fff15bcfd5?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1552056413-b8b5eed0170b?q=80&w=1929&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ],
       "edit": true
     }
