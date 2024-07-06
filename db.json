@@ -3,36 +3,65 @@
     {
       "id": 1,
       "title": "Organic Bananas",
+      "category": "Fruits",
       "description": "Fresh organic bananas from certified organic farms.",
       "price": 1.99,
       "images": [
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fbunch-of-bananas-gm184276818-13731783&psig=AOvVaw2o1YXZr2LehYfjKNkKVRBF&ust=1634004227374000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJjD3uT37fMCFQAAAAAdAAAAABAD",
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fbunch-of-bananas-gm184276818-13731783&psig=AOvVaw2o1YXZr2LehYfjKNkKVRBF&ust=1634004227374000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJjD3uT37fMCFQAAAAAdAAAAABAD",
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fbunch-of-bananas-gm184276818-13731783&psig=AOvVaw2o1YXZr2LehYfjKNkKVRBF&ust=1634004227374000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCJjD3uT37fMCFQAAAAAdAAAAABAD"
+        "https://www.istockphoto.com/photo/bunch-of-bananas-gm184276818-13731783",
+        "https://www.istockphoto.com/photo/bunch-of-bananas-gm184276818-13731783",
+        "https://www.istockphoto.com/photo/bunch-of-bananas-gm184276818-13731783"
       ],
       "edit": true
     },
     {
       "id": 2,
       "title": "Almond Milk",
+      "category": "Beverages",
       "description": "Unsweetened almond milk, perfect for lactose-intolerant individuals.",
       "price": 3.49,
       "images": [
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fglass-and-bottle-of-milk-with-almond-nuts-on-wooden-table-gm1183847388-334426172&psig=AOvVaw3Mh7cJ2ExfNSt7JJv3_UF8&ust=1634004300261000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCID3ivT37fMCFQAAAAAdAAAAABAD",
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fglass-and-bottle-of-milk-with-almond-nuts-on-wooden-table-gm1183847388-334426172&psig=AOvVaw3Mh7cJ2ExfNSt7JJv3_UF8&ust=1634004300261000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCID3ivT37fMCFQAAAAAdAAAAABAD",
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fglass-and-bottle-of-milk-with-almond-nuts-on-wooden-table-gm1183847388-334426172&psig=AOvVaw3Mh7cJ2ExfNSt7JJv3_UF8&ust=1634004300261000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCID3ivT37fMCFQAAAAAdAAAAABAD"
+        "https://www.istockphoto.com/photo/glass-and-bottle-of-milk-with-almond-nuts-on-wooden-table-gm1183847388-334426172",
+        "https://www.istockphoto.com/photo/glass-and-bottle-of-milk-with-almond-nuts-on-wooden-table-gm1183847388-334426172",
+        "https://www.istockphoto.com/photo/glass-and-bottle-of-milk-with-almond-nuts-on-wooden-table-gm1183847388-334426172"
       ],
       "edit": true
     },
     {
       "id": 3,
       "title": "Free-Range Eggs",
+      "category": "Dairy & Eggs",
       "description": "A dozen free-range eggs from happy, healthy hens.",
       "price": 4.99,
       "images": [
-        "https://media.istockphoto.com/id/157179922/photo/sliced-whole-wheat-bread.jpg",
-        "https://media.istockphoto.com/id/157179922/photo/sliced-whole-wheat-bread.jpg",
-        "https://media.istockphoto.com/id/157179922/photo/sliced-whole-wheat-bread.jpg"
+        "https://www.istockphoto.com/photo/free-range-eggs-gm909669646-249328255",
+        "https://www.istockphoto.com/photo/free-range-eggs-gm909669646-249328255",
+        "https://www.istockphoto.com/photo/free-range-eggs-gm909669646-249328255"
+      ],
+      "edit": true
+    },
+    {
+      "id": 4,
+      "title": "Organic Spinach",
+      "category": "Vegetables",
+      "description": "Fresh, organic spinach leaves perfect for salads and smoothies.",
+      "price": 2.99,
+      "images": [
+        "https://www.istockphoto.com/photo/spinach-leaves-on-rustic-wooden-table-gm157415204-19438013",
+        "https://www.istockphoto.com/photo/spinach-leaves-on-rustic-wooden-table-gm157415204-19438013",
+        "https://www.istockphoto.com/photo/spinach-leaves-on-rustic-wooden-table-gm157415204-19438013"
+      ],
+      "edit": true
+    },
+    {
+      "id": 5,
+      "title": "Whole Wheat Bread",
+      "category": "Bakery",
+      "description": "Healthy whole wheat bread baked fresh daily.",
+      "price": 3.99,
+      "images": [
+        "https://www.istockphoto.com/photo/sliced-whole-wheat-bread-gm157179922-15566751",
+        "https://www.istockphoto.com/photo/sliced-whole-wheat-bread-gm157179922-15566751",
+        "https://www.istockphoto.com/photo/sliced-whole-wheat-bread-gm157179922-15566751"
       ],
       "edit": true
     }
