@@ -48,11 +48,5 @@
       ],
       "edit": true
     },
-    {
-      "id": 5,
-      "title": "Whole Wheat Bread",
-      "description": "Healthy whole wheat bread baked fresh daily.",
-      "price": 3.99,
-      "images": [
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fsliced-whole-wheat-bread-gm157179922-15566751&psig=AOvVaw0Pq6fFJ9mNNBGygnNiRSF3&ust=1634004491951000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIjUvfT37fMCFQAAAAAdAAAAABAD",
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Fsliced-whole-wheat-bread-gm157179922-15566751&psig=AOvVaw0Pq6fFJ9mNNBGygnNiRSF3&ust=1634004491951000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCIjUvfT37fMCFQAAAAAdAAAAABAD
+     ]
+}
